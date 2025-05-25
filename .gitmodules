@@ -1,0 +1,6 @@
+[submodule "ruper-frontend"]
+	path = ruper-frontend
+	url = https://github.com/prvnlhr/ruper-frontend.git
+[submodule "ruper-backend"]
+	path = ruper-backend
+	url = https://github.com/prvnlhr/ruper-backend.git
